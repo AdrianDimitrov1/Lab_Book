@@ -1,0 +1,210 @@
+Simple_Different Same Acinetobacter lwoffii has evolved in the lab to be resistant to ciprofloxacin. {darby-et-al-2024-differential-development-of-antibiotic-resistance-and-virulence-between-acinetobacter-species.pdf}	ciproflaxin
+
+Simple_Same Same Active olfactory receptor genes increase their contacts with Greek island regions by a factor of 2.7-fold in mouse olfactory neurons. s41586-023-06845-4.pdf	2.7 fold
+
+Simple_Different Same There are approximately 12,309 unique transposable element insertion loci in the mandarin (Citrus reticulata) genome. {2022.03.19.484946v3.full.pdf}	12300
+
+Simple_Same Same Approximately 80% of Drosophila with a H3.3K36R mutation finish developing and eclose. {2024.05.03.592390v1.full.pdf}	80%
+
+Simple_Different Similar In human cells, enhancer and promoter sequences are broadly compatible, as enhancers can activate many different promoter sequences similarly, leading to a multiplicative effect on RNA output. This compatibility is supported by studies showing that nearly all active enhancers can activate all promoter sequences by similar amounts. However, in Drosophila, the situation is different; while both housekeeping and developmentally regulated gene promoters can be responsive, they respond to distinct sets of enhancer sequences and cofactors. This indicates that the compatibility model for enhancers and promoters in humans does not directly apply to Drosophila, where there are greater preferences for different classes of enhancers based on the type of promoter. s41586-022-04877-w.pdf	yes, no
+
+Simple_Different Different No information. 	evening
+
+Simple_Same Same Based on single-nuclei RNA sequencing data, myotendinous junction myonuclei are enriched for genes involved in cell–matrix interactions, specifically including genes such as COL22A1 and ADGBR4. {s41586-024-07348-6.pdf}	cell–matrix interactions
+
+Simple_Same Same The percentage of AR-negative status in male breast cancer (MBC) patients, when evaluated by IHR, is 5.3%. s41467-023-41318-2.pdf	5.3%
+
+Simple_Same Same The beta-amyrin synthase from Saponaria vaccaria (SvBAS) produces the highest yield of beta-amyrin from squalene. s41586-024-07345-9.pdf	Saponaria vaccaria
+
+Simple_Same Same Yes, metabolic glycan labeling does immobilize dendritic cell membranes and enhances the antitumor efficacy of dendritic cell vaccines. This process reduces the membrane mobility of dendritic cells (DCs), which activates them and improves their ability to present antigens and prime T cells. Additionally, the incorporation of azido-sugars during the culture of DCs significantly boosts the cytotoxic T lymphocyte (CTL) response and overall antitumor efficacy of the vaccines. {s41467-023-40886-7.pdf}	Yes
+
+Simple_Same Same Targeting sgRNAs to coding strands in gene bodies leads to higher effect sizes on average across multiple CRISPRi screens. Specifically, in all 17 CRISPRi screens analyzed, the average effect sizes of sgRNAs targeting coding strands were more than twofold higher than those targeting template strands. Additionally, sgRNAs targeting the coding strand had a significant impact on growth, while those targeting the template strand did not. s41592-024-02216-7.pdf	coding strand
+
+Simple_Same Same The expression of human mu-opioid receptor (HsMOR) with an N-terminal yeast αPrePro sequence has a complex effect on yeast cell phenotype. While the αPrePro sequence increased sensitivity to agonists like DAMGO and morphine by roughly two-fold, it also caused significant cellular disruptions. These disruptions included enlarged granular cells, expanded endoplasmic reticulum (ER) membranes, and the relocalization of HsMOR-GFP to puncta. Additionally, the maximum size of the signaling population decreased by 72%, indicating that despite the improved sensitivity, the overall signaling competency was reduced due to cellular stress and potential misfolding of HsMOR-GFP. Therefore, while the αPrePro sequence had some positive effects on sensitivity, the associated negative impacts on cell phenotype and signaling population rendered it not beneficial overall. s41467-022-30570-7.pdf	Enlarged granular cells
+
+Simple_Same Similar The homology based structure predicted by ColabFold has a poor prediction for the extracellular TM2-TM3 loop region and the partial unwinding of TM3 at the extracellular end in HcKCR1. s41467-023-40041-2.pdf	TM3
+
+Simple_Different Same The formation of the mycobacterial repressor DarR dimer results in the burial of approximately 1300 Å² of surface from the solvent. s41467-023-42823-0.pdf	1300 anstrom^2
+
+Simple_Same Same Grafting the ECL3 region from the adenosine A3 receptor (A3AR) onto the A2AAR increases the efficacy of binding to the A3AR antagonist CF101. The ECL3-chimeric receptors demonstrated an enhanced ability to bind CF101, indicating that ECL3 plays a significant role in the selective recognition of this antagonist by A3AR. s41467-024-47207-6.pdf	increases
+
+Simple_Same Same Yes, there has been an assessment of doing tagmentation of cDNA directly in the PCR mix without cleaning and quantifying the cDNA first. The approach, referred to as Smart-seq3xpress, allows for robust tagmentation of cDNA products after preamplification at fewer cycles, thereby excluding several time-consuming and expensive steps such as excessive cDNA preamplification, concentration measurements, and cDNA amount normalization. {2021.07.10.451889v1.full.pdf}	Yes
+
+Simple_Same Same The laminar patterns of axonal terminations of lower Layer 5/Layer 6 intratelencephalic neurons are more diffuse compared to Layer 2-4 intratelencephalic neurons. This is indicated by the observation that deep somata (which include lower Layer 5/Layer 6 neurons) tend to project more diffusely, while upper and middle somata (which correspond to Layer 2-4 neurons) have more focal projections. Specifically, upper/middle somata focus their axonal terminations in a smaller area, while deep somata exhibit a more widespread pattern of axonal termination. {2023.02.18.528865v2.full.pdf}	More diffuse
+
+Simple_Different Same Microstimulations in the subgenual anterior cingulate cortex (sgACC) of monkeys have been shown to induce a negative bias in decision-making that persists in subsequent decision-making experiments. Specifically, the microstimulation increased the average avoidance (Av) choices significantly in a number of sessions, indicating a tendency towards more avoidant behavior. This negative bias was associated with a decrease in functional connectivity from cognitive regions (like the dlPFC) to limbic regions, suggesting that the disruption of top-down influence from the dlPFC could lead to difficulties in emotion regulation and affective decision-making. The findings indicate that the activation of specific neurons in the sgACC contributes to this negative bias, which is sustained even after the stimulation has ceased, affecting later decision-making processes. {s41467-024-48375-1.pdf}	They maintain a negative bias
+
+Simple_Same Same The human SNVs French 2 and Indian 2 both lead to a subtle increase in the affinity of the transcription factor ETS-1 to the ETS-A site in DNA. Specifically, the relative affinity increases from 0.15 in the reference to 0.24 in French 2 and 0.26 in Indian 2. This increase in affinity is confirmed by EMSA, which shows that both variants bind to ETS-1 more strongly than the wild-type ETS-A. The similar phenotypes associated with these variants suggest that they may affect the same underlying mechanism related to polydactyly. s41586-023-06922-8.pdf	subtle increase
+
+Simple_Different Same Knocking out DNA methyltransferase (DNMT) in neurons leads to a significant increase in repeat-derived RNA expression, particularly from IAP (intracisternal A particle) elements. This is evidenced by a dramatic 200-fold induction of IAPs in DNMT–TKO neurons, which then comprise one-third of the total repeat-derived RNA. The absence of DNA methylation allows for the upregulation of these elements, which also impacts the expression of neighboring genes. Additionally, the lack of DNA methylation activates genes controlled by methylated CpG islands and causes extensive transcription of retrotransposons specifically in neurons. The transcription factor CREB1 plays a crucial role in this process, as it binds to new sites in the absence of DNA methylation, leading to increased chromatin accessibility and transcriptional activation of repeat-derived RNA. s41588-022-01241-6.pdf	strong increase
+
+Simple_Different Same Pexmetinib significantly increases the rate of threonine dephosphorylation by WIP1 phosphatase. Specifically, it enhances the dephosphorylation of pT180 by 10-fold. This effect is attributed to pexmetinib's ability to flip the activation loop of p38α, which exposes the pT180 site to solvent, making it more accessible for WIP1 to dephosphorylate. The conformation of the activation loop is crucial for determining the dephosphorylation rate, and while tyrosine phosphorylation can promote this process, it is not strictly necessary for pexmetinib's action. {2024.05.15.594272v3.full.pdf}	Increases dephosphorylation
+
+Simple_Same Same The panel used to evaluate the SNIPR001 phage therapy comprised 72 fluoroquinolone-resistant E. coli strains. s41587-023-01759-y.pdf	72
+
+Simple_Different Same Mouse neurons survive for approximately 2 weeks following CRISPR inactivation of HSPA5, as indicated by marked neuronal death observed in primary neurons cultured from LSL-CRISPRi mice and the severe motor phenotype in neonatal LSL-CRISPRi mice after injection of AAVs delivering sgHspa5. {2023.06.13.544831v4.full.pdf}	14 days
+
+Simple_Different Same The minimum required to cause a significant delay in the growth of melanoma tumors in mice is two FMD cycles. s41467-023-41066-3.pdf	2
+
+Simple_Different Same According to structure-based clustering, there are 20 unique structural clades of adenosine deaminases. {2023.05.21.541555v1.full.pdf}	1
+
+Simple_Same Same In the human genome (Homo sapiens), there are 18,164 distinct sites that contain TnG-repeat-like elements. s41586-023-06793-z.pdf	18164
+
+Simple_Same Same In Alzheimer's patients at Braak stages V/VI, there are changes in 5mC methylation of the promoter regions of 5,765 genes compared to control. {2024.02.01.578450v1.full.pdf}	5765
+
+Simple_Same Same In murine brown adipocytes treated with forskolin, a total of 7,875 phosphorylation sites were significantly regulated (FDR < 0.05). s41586-022-05041-0.pdf	7875
+
+Simple_Different Different No information. 	5-fold
+
+Simple_Same Same The LIMK PDZ domain is 47% identical and 81% similar between human LIMK1 and human LIMK2. s41467-023-44148-4.pdf	47
+
+Simple_Different Different No information. 	43.6
+
+Simple_Different Same When using bleomycin to induce senescence in fibroblasts cultured on a 0.5 KPa surface, it is noted that complete inhibition of proliferation occurs at roughly 1/10th the concentration required to achieve the same effect on plastic surfaces. Therefore, if you know the concentration of bleomycin needed for complete inhibition on plastic, you can estimate that you would need significantly less (1/10th) of that concentration when culturing on the soft acrylamide surface. {2024.02.06.579151v2.full.pdf}	You need 10x less
+
+Simple_Different Different No information. No relevant sources.	Lagrange multiplier constraints
+
+Simple_Different Similar No information. 	attenuation of loss
+
+Simple_Same Same In Arabidopsis, CWC15 has not been shown to interact with the 20 S proteasome subunit PBE1 in its role promoting degradation of the protein Serrate. {s41467-024-46676-z.pdf}	PBE1
+
+Simple_Same Same According to the degron index, the presence of Serine at position -3 or -8 in the sequence is predicted to favor degradation. {2023.08.22.554289v2.full.pdf}	-3
+
+Simple_Different Different No information given. 	Inner cell mass
+
+Simple_Different Similar No information. 	3-4 days
+
+Simple_Same Same In mice with a homozygous knock-in MIRAS allele of mitochondrial DNA polymerase gamma, a 30% decrease in rotarod performance is observed at 12 months of age compared with control mice. s41586-024-07260-z.pdf	30%
+
+Simple_Same Same In pre-commitment myeloid progenitor cells, estrogen can be withdrawn for up to 72 hours before the cells can no longer return to their progenitor state. {2021.05.12.443709v1.full.pdf}	72 hours
+
+Simple_Same Same In the ARPLA method for detecting surface glycoRNAs, the aptamer binds to N-acetylneuraminic acid (Neu5Ac), which is enriched in glycoRNA. s41587-023-01801-z.pdf	Neu5Ac
+
+Simple_Different Same In the Ingraham 2022 protein design paper, the authors forced the protein complexes to be symmetric with respect to a specific space group by implementing a method that symmetrizes the underlying sampling of protein complexes to satisfy prescribed Euclidean symmetries. They utilized a collection of symmetry operations that form a group, which can be represented as orthogonal transformations and translations in R3. To ensure that the samples remain invariant under these symmetry operations throughout the sampling process, they symmetrized the initial structure and defined a symmetrized 'copying' operation. Additionally, they modified the sampling operation to include a symmetrized stochastic differential equation (SDE) that incorporates symmetry conditions, allowing for the generation of structures that meet the symmetry requirements. {2022.12.01.518682v1.full.pdf}	symmetric sampling of the SDE/ODE (analytical conditioning)
+
+Simple_Same Same In the LungMAP Human Lung CellRef, a total of 48 well-defined lung cell types are identified in a normal human lung. s41467-023-40173-5.pdf	48
+
+Simple_Same Same Human HNRNPCL2 is involved in several cellular processes, including:- Regulation of synaptonemal complex assembly- Cellular component assembly- Microtubule polymerization- Negative regulation of viral processes- Cellular component biogenesis- Establishment of organelle localization- Chaperone cofactor-dependent refolding- Defense response to symbiont- Maintenance of protein location- De novo protein folding- Innate immune response- Regulation of nervous system development. {2024.05.15.594402v1.full.pdf}	nan
+
+Simple_Same Same In zebrafish embryos with homozygous leukolysin knockout, defects in angiogenesis can be rescued by inactivating the col4a5 allele. s41586-024-07283-6.pdf	col4a5
+
+Simple_Different Different Inactivation of genes involved in the TP53 signaling pathway, SAGA H3 acetylation complex, and the Fanconi Anemia complex all result in resistance to colchicine in HAP1 cells. Therefore, the question asks for the complex or pathway whose inactivation does NOT lead to such resistance. Since all mentioned pathways lead to resistance, there is no information provided that indicates any complex or pathway that does not result in resistance to colchicine. Thus, the answer is: No information given. {2024.03.18.585604v2.full.pdf}	SIN3 histone deacetylation
+
+Simple_Different Same The induction of a gliogenic switch via the addition of PDGF-AA during neuroectoderm specification results in the efficient derivation of astroglia, comprising 25–31% of the cell population by 8–10 weeks of differentiation. This process is facilitated by the supplementation of neuroectoderm induction media with PDGF-AA, which leads to robust upregulation of gliogenic factors such as nuclear factor I A (NFIA) at 3 weeks of differentiation, indicating early glial patterning in progenitor cells. Additionally, this approach enables accelerated astrogliogenesis while retaining neurogenic potential in the majority of cells. {s41587-024-02157-8.pdf}	accelerated astrogliogenesis and normal neurogenic potential
+
+Simple_Same Same No information. 	No
+
+Simple_Same Same The causative mutation of the snog1a mutant of Physcomitrium patens is located on chromosome 8. {2024.04.08.588603v1.full.pdf}	Chromosome 8
+
+Simple_Different Different No information. 	70
+
+Simple_Same Same The molecule associated with the decline of NAD+ levels in reactive astrocytes following TNFα treatment is CD38. CD38 is a major regulator of NAD+ levels, and its significant upregulation in reactive astrocytes has been implicated in the decline of NAD+. s41587-024-02157-8.pdf	CD38
+
+Simple_Different Similar No information given. 	Shorter cilia
+
+Simple_Same Same The removal of sialic acid moieties from the T-cell surfaces decreases the binding of Sialic acid-binding Ig-like lectin 15 (Siglec-15) to human T-cells. This decrease in binding is comparable to that observed when T-cells undergo deglycosylation, indicating that the sialic acid moiety is essential for the binding of Siglec-15. s41467-023-39119-8.pdf	decreases
+
+Simple_Different Different No information given. No relevant sources.	ACKR1
+
+Simple_Same Same FOXP3 binds to segment E2 of the UNC5B-AS1 upstream super enhancer region. {2024.05.07.593065v1.full.pdf}	E2
+
+Simple_Different Different The upregulation most associated with the Relapse signature in prostate cancer includes immune response-related genes, with a specific mention of acute-phase proteins such as serum amyloid A (SAA1 and SAA2) and alpha-1-acid glycoprotein 1 (ORM1), as well as immune globulins (IGHG3, IGHG4, IGKC, IGLC7). These findings highlight the role of an inflammatory immune response in aggressive prostate cancer. {2024.05.13.593822v2.full.pdf}	CXCL17
+
+Simple_Same Same The cellular feature that displays the greatest difference in morphology between apoptotic and control cells, as measured by Cell Painting assays, is primarily related to the mitochondria. The study observed 367 differential morphology features, with most changes occurring in the mitochondria and nuclei for apoptotic cells. {2024.04.26.591386v1.full.pdf}	mitochondria
+
+Simple_Different Similar No information. 	Disrupts binding
+
+Simple_Different Same The effect of bone marrow stromal cell-conditioned media (SCM) on the expression of the CD8a receptor in cultured OT-1 T cells shows no significant alterations. After a 24-hour treatment with SCM, the expression of CD8α in OT-1 T cells was comparable to that in unconditioned medium (UCM) and adipocyte-conditioned medium (ACM), with P-values indicating no significant differences (UCM vs. SCM P = 0.7383, UCM vs. ACM P = 0.9964, SCM vs. ACM P = 0.7830). Therefore, SCM does not appear to affect CD8a receptor expression in OT-1 T cells. {2024.01.31.578101v1.full.pdf}	No effect
+
+Simple_Different Same The expression of the ATPase-deficient E251Q mutant of the Spindle E protein in silkworm cells leads to a reduction in the levels of the mature piwiRNAs piR1712 and piR2986. Additionally, there is an accumulation of longer RNA signals that correspond to the lengths of their pre-piRNAs. {2023.12.19.572360v2.full.pdf}	Decrease
+
+Simple_Different Similar The geographical-based Iranian cannabis populations with the greatest genetic differentiation parameter (FST) are the east and southeast populations, which exhibited the highest FST value of 0.17 in the second FST analysis when compared to hemp. {2024.05.07.593022v1.full.pdf}	East and southeast: northeast
+
+Simple_Same Same The absolute percent difference in body fat mass loss between obese mice treated with GLP-1-MK-801 and GLP-1 is 23%. s41586-024-07419-8.pdf	23%
+
+Simple_Same Same The approximate length of the stalk portion of the S. coelicolor Umbrella complex structure is about 300 Å. s41586-024-07298-z.pdf	300 Å
+
+Simple_Different Similar In mouse embryonic stem cells (mESCs), the contact probability of most active promoters with the nearest topologically associated domain (TAD) boundary is lower than 0.2, which is comparable to the ectopic Sox2 promoter. Approximately 75% of active promoters fall into this category. The remaining promoters, which are closer or adjacent to a TAD boundary, experience larger contact probabilities, but the transcriptional response is less sensitive in these cases. Additionally, it is noted that drops in contact probabilities across a boundary increase as the genomic distance from the boundary decreases. s41586-022-04570-y.pdf	between 0 and 0.3
+
+Simple_Different Similar When the KRAB domain is concatenated with a poorly expressed domain, such as DHX16 OB_NTP or BAZ1A DDT, it can ablate the KRAB function. This means that the presence of these poorly expressed domains inhibits the ability of the KRAB domain to function effectively. However, increasing the concentration of dox (doxycycline) can partially restore the silencing ability of the KRAB-DHX16 fusion and fully restore it for the KRAB-BAZ1A fusion. This suggests that the loss of function in these KRAB fusions is primarily due to decreased protein abundance. {2022.12.20.521091v1.full.pdf}	eliminates function
+
+Simple_Different Same The deletion of SMAD1 in parvalbumin-expressing interneurons in the barrel cortex of adult mice leads to a significantly reduced firing rate of these interneurons in response to current injections. This reduction in firing frequency is attributed to a decrease in input resistance in the SMAD1-deficient PV interneurons. Consequently, without BMP–SMAD1 signaling, these interneurons experience less glutamatergic drive and reduced excitability, resulting in a severe disruption of the cortical excitation–inhibition balance. {s41586-024-07317-z.pdf}	Greatly reduced
+
+Simple_Different Unsure No information. 	nan
+
+Simple_Different Similar The measured dissociation constant (Kd) for the Wnt5b-Ror2 complex in cytonemes of zebrafish is 440 ± 80 nM. s41586-023-06850-7.pdf	Between 311-476 nM
+
+Simple_Same Different The mechanism for the expression of the EPRS1(N1) form of EPRS1 in humans involves a novel polyadenylation event that introduces a new stop codon, resulting in a truncated C-terminus variant. This EPRS1(N1) form plays a crucial role in maintaining cellular homeostasis by preserving a basal level of GAIT gene expression in myeloid cells. Specifically, EPRS1(N1) inhibits the binding of the GAIT complex to target mRNAs, which is important for regulating the expression of proteins such as vascular endothelial growth factor A (VEGF-A). By shielding GAIT-element-bearing transcripts from the inhibitory effects of the GAIT complex, EPRS1(N1) ensures that low-level expression of GAIT target proteins is maintained, which is essential for homeostasis. s12276-023-01094-x.pdf	polyadenylation
+
+Simple_Different Different The optimal GDP-binding temperature for the EF-1A protein from Asgard class Wukongarchaeia is 52.9 °C. {s41467-024-44806-1.pdf}	63.2
+
+Simple_Same Same The Ddd1 deaminase shows a preference towards editing 5'-GC substrates. {2023.05.21.541555v1.full.pdf}	5'-GC
+
+Simple_Same Same Based on the information provided, 12% of the proteins screened are classified as bifunctional, meaning they can both activate and repress transcription. s41586-023-05906-y.pdf	12
+
+Simple_Different Same In the integration site assay for the large serine recombinase Cp36 in K562 cells, the top ten loci account for 11.4% of uniquely mapped reads. s41587-022-01494-w.pdf	11.40%
+
+Simple_Same Same Based on the information provided, about 50–80% of colorectal cancer-associated fibroblasts typically survive at 2 weeks when cultured with the platinum-based chemotherapy oxaliplatin. s41467-023-36334-1.pdf	50-80%
+
+Simple_Same Same In the E. Coli Long Term Evolution Experiment lines at 50,000 generations, 64.0% of the non-genic genomic region windows displayed some transcription at a relaxed threshold. {2023.11.15.567300v1.full.pdf}	64%
+
+Simple_Different Same No information. No relevant sources.	Get3
+
+Simple_Different Similar When the macrocycle MC1 binds to its target PSMD2, several key residue interactions are formed. The MC1H7 residue establishes polar contacts with the PSMD2E336 side chain and the backbone carbonyls of PSMD2P871 and PSMD2L873. Additionally, the neighboring MC1R8 residue forms a charge interaction with PSMD2E878 and hydrogen bonds with PSMD2H868. Furthermore, residues Y9 and W10 from MC1 hydrogen bond with the backbone carbonyl of PSMD2K773 and PSMD2N737, respectively. Lastly, W12 from MC1 establishes π-stacking interactions with PSMD2H770. s41589-022-01218-w.pdf	R8 residue of MC1 and E878 residue of PSMD2
+
+Simple_Different Different Based on the provided information, fine-tuning appears to give a larger gain for the ESM2 model compared to the Ankh model. Specifically, the fine-tuning of the smaller 150M parameter ESM2 model showed significant improvement in capturing the effects of mutations, outperforming its larger counterparts. In contrast, the Ankh model only gained significantly from fine-tuning for specific mutational landscape data, indicating that its performance was more dependent on its architecture rather than the benefits of fine-tuning. Therefore, while fine-tuning is beneficial across models, the ESM2 model shows a more substantial gain from this process. {2023.12.13.571462v2.full.pdf}	The gain is similar for all models
+
+Simple_Same Similar Rv2780 localizes mainly in the cytoplasm of macrophages derived from mice infected with Mycobacterium tuberculosis. It is also partially found in the mitochondria and very minimally in the endoplasmic reticulum (ER) or lysosome during the infection. s41467-024-48588-4.pdf	Cytoplasm
+
+Simple_Same Same The amino acids of yeast Rev7 that are not important for its interaction with the MRX complex are those located in the N-terminal HORMA domain (residues 1-149). The information indicates that this domain is dispensable for binding to the MRX subunits, meaning that its deletion does not affect the interaction. {2024.02.20.581217v2.full.pdf}	1-149
+
+Simple_Same Same The antibody isotype that is NOT produced in HLA-expressing mice by the AMP-CpG formulated EBV vaccine for gp350-specific antibodies is IgE, as it is not mentioned in the list of isotypes generated (IgA, IgM, IgG1, IgG2a, IgG2b, and IgG3). s41467-023-39770-1.pdf	IgE
+
+Simple_Different Same No information. 	lipopolysaccharide
+
+Simple_Different Same The bioconjugation system used to attach the INT tag to AAVs in the Vault AAV delivery system is the SpyTag-SpyCatcher technology. This system allows for the site-specific conjugation of the INT peptide to AAV, facilitating its packaging inside recombinant vaults. {2023.11.29.569229v4.full.pdf}	Spytag003
+
+Simple_Same Different The most common category of gene in the genomes of Borgs is glycosyltransferases, which are proteins involved in DNA and RNA manipulation. s41586-022-05256-1.pdf	Glycosyltransferases
+
+Simple_Different Similar The cell types that show the most significant maturation with transplantation and increasing organoid age are upper-layer (UL) excitatory neurons and astrocytes. Specifically, the maturation of UL excitatory neurons increased from 6.1% alignment to postnatal stages in 5-month organoids to 30.2% in 5-month transplants, and reached 94.5% in 8-month transplants. Additionally, astrocytes demonstrated enhanced maturation, with 75.8% of their nuclei aligning to postnatal cells after 301 days, which is a significant improvement compared to previous reports of 56.2% in cortical organoid transplants. {s41587-024-02157-8.pdf}	upper-layer excitatory neurons
+
+Simple_Different Different No information. {2023.05.21.541555v1.full.pdf}	CXE (Cas9-XTEN-hExo1)
+
+Simple_Different Same The FISNA domain is critical in mediating NLRP3 inflammasome oligomerization, as it is identified as a key mediator of both the conformational change and oligomerization of NLRP3. s41586-022-05570-8.pdf	fish-specific NACHT-associated (FISNA)
+
+Simple_Different Similar When male valvular interstitial cells (VIC) are cultured on larger polystyrene nanoparticles (PS-NP) gels, the expected epigenetic changes include alterations in methylation and acetylation states. Specifically, there are dose-dependent and PS-NP size-dependent changes in male VIC methylation, and only the larger particles affect the acetylation state. Additionally, these changes may be linked to male-specific epigenetic modifications that regulate osteoblast-like differentiation. {2024.05.13.593760v2.full.pdf}	Increased acetylation relative to female VICs
+
+Simple_Same Similar The gene that can lead to pyroptosis when mediated by ZDHHC5 is GSDMD, as it is specifically mentioned that ZDHHC5 mediates ROS-dependent palmitoylation of GSDMD, which is essential for its localization to the plasma membrane and subsequent pyroptosis. Additionally, GSDMB-FL and GSDME-FL can also be palmitoylated, indicating they may also play a role in regulating pyroptosis through similar mechanisms. v19p4931.pdf	GSDMD
+
+Simple_Different Different No information. 	nan
+
+Simple_Different Same No information. No relevant sources.	None of the above
+
+Simple_Same Same The mutation that has been shown to increase antibody neutralization potency in the SARS-CoV2 BA.1 spike protein is the reversion mutation S446G. This mutation increases the neutralization potency of antibodies and likely contributes to greater neutralization potency against the BA.2 variant. {s41586-024-07385-1.pdf}	S446G
+
+Simple_Different Same The mutation of Gly56 to His56 pulls the CDR2 loop closer to the RBD of the spike domain of SARS-CoV-2, as observed in PyMol analysis. {2024.05.13.593833v3.full.pdf}	G56H
+
+Simple_Different Different The mutation in yeast Pbs2 that increases its interaction with SH3 is I87W, which has been noted to most significantly increase the interaction strength. {2024.05.13.593936v2.full.pdf}	P97A
+
+Simple_Same Similar The proteins that have the greatest reduction in association with the mutant drosophila SMN D20V protein compared to the wild-type (WT) SMN are SmD1, D2, E, F, and G. {2024.05.15.594402v1.full.pdf}	SmD1
+
+Simple_Different Different The residue of KBTBD4-PR that contributes to the expansion of the 2b-2c loops and is inserted into the narrow tunnel leading to the HDAC1 catalytic site is Pro313. {2024.05.14.593970v1.full.pdf}	Arg312
+
+Simple_Different Different No information. No relevant sources.	RlmB
+
+Simple_Same Same The Rev1-DTD rev3 double mutants showed the greatest increase in sensitivity to DNA alkylation induced by methyl methanesulfonate (MMS), equivalent to that observed in the rev1∆ null mutant. This indicates that knocking out the Rev1-DTD subunit in conjunction with the rev3 domain leads to significant sensitivity to MMS. {2024.02.13.580051v1.full.pdf}	DTD
+
+Simple_Same Same The synthetically designed matrix protein that produces the thickest fibers is BUD40, with fibers averaging 2.07± 0.56 microns thick. {2024.05.14.594155v1.full.pdf}	BUD40
+
+Simple_Different Same The inter-individual differences in clinical response to real-time functional magnetic resonance imaging neurofeedback (NF) in patients with major depressive disorder (MDD) could be explained by several training characteristics within the target brain region and beyond. Notably, while specific characteristics such as mean NF signal amplitude and mean left amygdala activation were not associated with changes in depressive symptoms, the variability in treatment efficacy may be attributed to whole-brain activation patterns during self-regulation training, which extend beyond the amygdala. Additionally, significant symptom reduction was linked to selective increases in control regions like lateral prefrontal areas and decreases in default mode areas associated with self-referential thinking. The presence of multiple brain functional pathways to successful treatment suggests that the regulation process itself is crucial for achieving treatment success and understanding the variability in outcomes. Furthermore, individuals who did not respond effectively to feedback signals exhibited non-responsiveness, indicating the importance of brain response to feedback in effective NF training. {2024.05.01.592108v2.full.pdf}	None of the above
+
+Simple_Same Same The residue in the intrinsically disordered region of RNA binding protein Unkempt that silences its transcriptional activity when mutated to alanine is L522. s41467-024-47449-4.pdf	L522
+
+Simple_Same Similar The primary pathway responsible for translation initiation of multitail mRNAs is the canonical eIF4–eIF3 initiation mechanism. This is supported by experiments that concluded multitail mRNA utilizes this mechanism, as well as evidence indicating that it also involves the eIF4E–eIF4G pathway. s41587-024-02174-7.pdf	eIF4E-eIF4G
+
+Simple_Different Similar The poly(A) oligo that demonstrates the highest resistance to RNA degradation is the one with chemically and topologically modified tails, specifically the end modified stabilized 30 A stem oligo combined with end modified 30 A branches. This configuration showed the highest resistance to degradation in HeLa cell lysate. s41587-024-02174-7.pdf	modified branch poly(A)
+
+Simple_Different Different The three residues with evolutionary divergence in the G domains of RAS isoforms that impose selectivity constraints of pan-KRAS non-covalent inhibition are:1. H95, which is substituted with L in NRAS and Q in HRAS.2. Residue 121.3. Residue 122. {s41586-023-06123-3.pdf}	95, 121, 122
+
+Simple_Same Same The transcription factor that has been found to be enriched in the heart and skeletal muscle of Rattus norvegicus rats that have undergone endurance training is MEF2C. s41586-023-06877-w.pdf	MEF2C
+

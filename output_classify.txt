@@ -1,0 +1,12 @@
+Simple_Different Similar Acinetobacter lwoffii has evolved resistance to ciprofloxacin during laboratory experiments. {darby-et-al-2024-differential-development-of-antibiotic-resistance-and-virulence-between-acinetobacter-species.pdf}	ciproflaxin
+
+Simple_Same Same The active olfactory receptor gene significantly increased its contacts to Greek islands by a factor of 2.7-fold in mouse olfactory neurons. s41586-023-06845-4.pdf	2.7 fold
+
+Simple_Different Same Approximately 12,309 unique transposable element insertion loci have been identified in the mandarin (Citrus reticulata) genome. {2022.03.19.484946v3.full.pdf}	12300
+
+Simple_Same Same Approximately 80% of Drosophila with a H3.3K36R mutation complete development and eclose. {2024.05.03.592390v1.full.pdf}	80%
+
+Simple_Different Different Yes, enhancer and promoter sequences are broadly compatible in human cells, with enhancers generally activating most promoters similarly. However, in Drosophila, the interaction is more specific, with developmental and housekeeping gene promoters showing significant preferences for different classes of genomic enhancers, indicating a more nuanced relationship compared to humans. {s41586-022-04877-w.pdf}	yes, no
+
+Simple_Different Different The number of tumor-infiltrating leukocytes is highest at night, specifically between 12:00 AM and 6:00 AM, as observed in the experiments with cohorts of mice injected with B16-F10 melanoma cells expressing ovalbumin. {source1.pdf}	evening
+
